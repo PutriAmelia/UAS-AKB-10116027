@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UAS AKB 10116027</string>
+    <string name="splashscreen">SplashScreen</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">SELAMAT DATANG!</string>
+    <string name="slide_1_desc">Ayo Mulai Tambahkan Temanmu!</string>
+
+    <string name="slide_2_title">TENTANG</string>
+    <string name="slide_2_desc">Aplikasi ini bisa menambah kontak pertemananmu</string>
+
+    <string name="slide_3_title">MULAI!</string>
+    <string name="slide_3_desc">Mulai sekarang!</string>
+
+</resources>
